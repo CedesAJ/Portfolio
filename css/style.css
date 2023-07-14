@@ -304,6 +304,7 @@ header .navbar ul li a:hover{
 
 .portfolio .box-container img{
     width: 40%;
+    height: 60%;
 }
 
 .portfolio h3{
